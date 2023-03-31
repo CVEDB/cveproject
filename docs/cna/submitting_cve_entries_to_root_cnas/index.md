@@ -7,7 +7,7 @@ layout: page
 
 #### Important Message for CNAs
 
-To learn about the CVE Program's automated [CVE Numbering Authority (CNA)](https://www.cve.org/ProgramOrganization/CNAs) tools for assigning [CVE IDs](https://www.cve.org/ResourcesSupport/Glossary?activeTerm=CVEID) and publishing [CVE Records](https://www.cve.org/ResourcesSupport/Glossary?activeTerm=glossaryRecord) and updating them over time, select [Home](https://cveproject.github.io/) or [CVE Services](https://cveproject.github.io/automation-cve-services) from the menu above.
+To learn about the CVE Program's automated [CVE Numbering Authority (CNA)](https://www.cve.org/ProgramOrganization/CNAs) tools for assigning [CVE IDs](https://www.cve.org/ResourcesSupport/Glossary?activeTerm=CVEID) and publishing [CVE Records](https://www.cve.org/ResourcesSupport/Glossary?activeTerm=glossaryRecord) and updating them over time, select [Home](https://cvedb.github.io/cveproject/) or [CVE Services](https://cvedb.github.io/cveproject/automation-cve-services) from the menu above.
 
 <br>
 
