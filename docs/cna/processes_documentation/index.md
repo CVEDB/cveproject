@@ -3,7 +3,7 @@ title: CNA Processes Documentation
 layout: page
 ---
            
-CVE Numbering Authorities (CNAs) processes documents are listed below. Additional CNA documentation is [available here](http://cveproject.github.io/docs/cna/resources/index.html).
+CVE Numbering Authorities (CNAs) processes documents are listed below. Additional CNA documentation is [available here](http://cvedb.github.io/cveproject/docs/cna/resources/index.html).
 
 ### CVE Entry Submissions via git
 These documents walk through how to set up your local environment to
